@@ -1,6 +1,6 @@
 # CacheRAG
 
-This is the repository for the CacheRAG: A Novel Approach to Enhance KG-based RAG Through Caching Mechanisms.
+This is the repository for the CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering.
 
 ## Install
 
